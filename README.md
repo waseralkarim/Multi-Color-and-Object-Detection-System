@@ -1,6 +1,6 @@
-#Real-time Color and Object Detection System
+# Real-time Color and Object Detection System
 
-#This project is capable of detecting multiple colors utilizing the OpenCV. It calculates the hsv color range of the live images. Based on that it predicts the color.
+## This project is capable of detecting multiple colors utilizing the OpenCV. It calculates the hsv color range of the live images. Based on that it predicts the color.
 A web-based app is also implemented. It continuously searches for the color and objects and shows the results by capturing images.
 
 Instructions: 
