@@ -57,7 +57,6 @@ You can edit the HSV range values inside the script to add or modify colors:
 
 ```python
 python
-CopyEdit
 # Example HSV range for red
 lower_red = np.array([161, 155, 84])
 upper_red = np.array([179, 255, 255])
@@ -68,7 +67,6 @@ upper_red = np.array([179, 255, 255])
 
 ```
 bash
-CopyEdit
 ├── color_detection.py   # Main script for detection
 ├── README.md            # Project documentation
 └── requirements.txt     # (optional) List of dependencies
