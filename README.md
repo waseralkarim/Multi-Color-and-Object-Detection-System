@@ -11,10 +11,6 @@ This project is a Python-based computer vision system that uses OpenCV to detect
 - Adjustable color ranges using HSV
 - Easy-to-modify code for adding new colors
 
-## 📸 Demo
-
-> 📷 Add a screenshot or GIF here (optional)
-
 ## 🧰 Technologies Used
 
 - Python 3
